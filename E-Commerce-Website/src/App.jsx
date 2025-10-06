@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import {Routes,Route} from 'react-router-dom'
+import {Routes,Route,Link} from 'react-router-dom'
 import LandlingPage from './Strores/Pages/LandlingPage'
 import MobilePage from './Strores/Pages/MobilePage'
 import CompPage from './Strores/Pages/CompPage'
@@ -21,6 +21,7 @@ import WatchSingle from './Singles/WatchSingle'
 import WomanSingle from './Singles/WomanSingle'
 import FridgeSingle from './Singles/FridgeSingle'
 import UserCart from './Strores/UserCart'
+
 
 
 
@@ -53,6 +54,7 @@ const App=()=>{
       <Route path='/watch/:id' element = {<WatchSingle />} />
       <Route path='/woman/:id' element = {<WomanSingle/>} />
       <Route path='/fridge/:id' element = {<FridgeSingle />} />
+     
 
    </Routes>
 

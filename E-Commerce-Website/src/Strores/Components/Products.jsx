@@ -9,7 +9,7 @@ import Kitchen from './Kitchen'
 import Men from './Men'
 import Fridge from './Fridge'
 import Books from './Books'
-import Speakers from './Speakers'
+
 import TVS from './TVS'
 
 
@@ -30,7 +30,6 @@ const Products = () => {
  <Men/>
  <Fridge/>
  <Books/>
- <Speakers/>
  <TVS/>
 
 
