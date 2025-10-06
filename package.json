@@ -2,12 +2,12 @@
   "name": "e-commerce-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Chaithu122.github.io/E-Commerce-Website",
+  "homepage": "https://Chaithu122.github.io/E-Commerce-Application",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^19.1.0",
