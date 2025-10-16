@@ -25,6 +25,7 @@ The project aim is to **provide a seamless online shopping experience** where us
   ### 🖼HomePage
   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/ffc29798912f854bfff62c49f0e5c6caea405a8b/Homepage1.jpg" alt="homepage1"/>
   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/2a0b881a1970316b589356e1d01cc74540042022/Homepage2.jpg" alt="homepage2"/>
+  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/3395b2dd4eb3f63b908a1dd63a1c9a48cca70373/Homepage3.jpg" alt="homepage3"/>
   
   
 
