@@ -23,36 +23,57 @@ The project aim is to **provide a seamless online shopping experience** where us
 - **IDE:** VS Code, Git
   ## 🖼 Screenshots
   ### 🖼HomePage
-  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/ffc29798912f854bfff62c49f0e5c6caea405a8b/Homepage1.jpg" alt="homepage1"/>
-  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/2a0b881a1970316b589356e1d01cc74540042022/Homepage2.jpg" alt="homepage2"/>
-  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/3395b2dd4eb3f63b908a1dd63a1c9a48cca70373/Homepage3.jpg" alt="homepage3"/>
-  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/1a68444920ec6f70a22bce5003c24e5a8843dc73/Homepage4.jpg" alt="homepage4" width=1000/>
+  <img src="https://github.com/user-attachments/assets/050b8764-b343-4cd9-8aaf-41da3b50ac5a" alt="homepage1"/>
+<img src="https://github.com/user-attachments/assets/e73fc5a0-fec6-4cba-912d-0fe9f34a4d82" alt="homepage2"/>
+<img src="https://github.com/user-attachments/assets/c4b54903-157b-4011-90ec-ea44f60295c5" alt="homepage3"/>
+<img src="https://github.com/user-attachments/assets/da53a074-51ca-4b51-be82-46943cce3862" alt="homepage4" width=1000/>
+
+
+
  ### 🖼MobilesPage
- <img src="https://github.com/Chaithu122/E-Commerce-website/blob/dde6a39519dfe0fbfea77472237126940df3a402/Mobilespage.jpg" alt="mobilespage"/>
+ <img src="https://github.com/user-attachments/assets/cd03a81f-3dcc-4ebf-b3ee-a5309a53f9d9" alt="mobilespage"/>
+
+
  
  ### 🖼ComputersPage
- <img src="https://github.com/Chaithu122/E-Commerce-website/blob/4bac99b8435a56c48bde6f77f824113141de8df2/Computerspage.jpg" alt="computerspage"/>
+ <img src="https://github.com/user-attachments/assets/57d6b952-8d0b-41ef-b086-a41996f1ade0" alt="computerspage"/>
+
+
 
  ### 🖼WatchesPage
-<img src="https://github.com/Chaithu122/E-Commerce-website/blob/0021c23ecdd7807a6124f153330af5f76d16c96b/Watchespage.jpg" alt="watchespage"/>
+<img src="https://github.com/user-attachments/assets/002ec2b6-71e6-4f2b-8bf9-e49279617cb9" alt="watchespage"/>
+
+
 
  ### 🖼MensWearPage
- <img src="https://github.com/Chaithu122/E-Commerce-website/blob/cf0dc4cde43163dac6d023adf68dd1a64c4c5951/Menswearpage.jpg" alt="menswearpage"/>
+ <img src="https://github.com/user-attachments/assets/a5693f0b-ac72-47b3-8848-1b2270561ce6" alt="menswearpage"/>
+
+
 
   ### 🖼WomensWearPage
-  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/d8246c03d3c9ee62ea90e06f47393b68eaace479/Womenswearpage.jpg" alt="womenswear"/>
+  <img src="https://github.com/user-attachments/assets/495a6b7c-aaeb-462f-aa4a-5c0b48baad4e" alt="womenswear"/>
+ 
+
 
    ### 🖼FurniturePage
-   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/aa12fb4e7bdaa9c4dc83e4fd980b9d1704e2a2b8/Furniturepage.jpg" alt="furniturepage"/>
+   <img src="https://github.com/user-attachments/assets/66508aba-9cdd-4998-8c92-633b061deb03" alt="furniturepage"/>
+
+
 
    ### 🖼KitchenPage
-   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/c56a65d92fdfa0730961b68fa7a3218de352a0e8/Kitchenpage.jpg" alt="kitchenpage"/>
+   <img src="https://github.com/user-attachments/assets/10959a85-4478-4e19-ba39-c5b563a1bdff" alt="kitchenpage"/>
+
+
 
    ### 🖼FridgePage
-   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/ed5266e1c032c6ec03a874fd56d591c30348b6dd/Fridgepage.jpg" alt="fridgepage"/>
+   <img src="https://github.com/user-attachments/assets/4ce27c2f-aceb-4d2e-bf96-f14b08a073e9" alt="fridgepage"/>
+ 
+
    
    ### 🖼ACPage
-   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/5c37b50583e1d75ab7049e8c902167b66f71a8f9/ACpage.jpg" alt="ACPage"/>
+   <img src="https://github.com/user-attachments/assets/cdc69cae-052e-462b-b2fc-fce23845a442" alt="ACPage"/>
+   
+
 
    ## 🛒 Add to Cart Feature
    The **Add to Cart** feature allows users to select products they wish to purchase and view them in the cart section before checkout.
@@ -65,10 +86,12 @@ The project aim is to **provide a seamless online shopping experience** where us
    - Each item can be removed individually
 
    - The total amount updates automatically whenever products are added or removed
-     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/66044b826dc0e542fbd055d9c5123b724fb3ed76/Addtocartpage1.jpg" alt="addtocart1"/>
-     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/38adc91cf4a994189f716f8195ded3f425d32cca/Addtocartpage2.jpg" alt="addtocart2"/>
-     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/d3d4e1163cab9045988b3b2b65b4554f24292956/Addtocartpage3.jpg" alt="addtocart3"/>
-     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/d3a9c321a776a1111b2be90b35c5e3c29e0c9cc2/Cartpage.jpg" alt="cart"/>
+     <img src="https://github.com/user-attachments/assets/6152d86a-ce02-4c63-a390-e59ecec153d5" alt="addtocart1"/>
+     <img src="https://github.com/user-attachments/assets/62ed0510-d7c3-4366-8ec8-e3d970e92b11" alt="addtocart2"/>
+     <img src="https://github.com/user-attachments/assets/5e174a34-8fc5-4d16-a878-9a316a5b0cab" alt="addtocart3"/>
+     <img src="https://github.com/user-attachments/assets/bf17e608-3afb-47ae-816e-613f09a1aee7" alt="cart"/>
+
+
 
      ## 🛠 Project Setup
      Follow these steps to set up and run this project on your system 👇
