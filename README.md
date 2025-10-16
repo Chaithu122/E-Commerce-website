@@ -46,7 +46,9 @@ The project aim is to **provide a seamless online shopping experience** where us
    <img src="https://github.com/Chaithu122/E-Commerce-website/blob/aa12fb4e7bdaa9c4dc83e4fd980b9d1704e2a2b8/Furniturepage.jpg" alt="furniturepage"/>
 
    ### 🖼KitchenPage
+   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/c56a65d92fdfa0730961b68fa7a3218de352a0e8/Kitchenpage.jpg" alt="kitchenpage"/>
 
+   ### 🖼FridgePage
 
 
      
