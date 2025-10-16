@@ -68,6 +68,48 @@ The project aim is to **provide a seamless online shopping experience** where us
      <img src="https://github.com/Chaithu122/E-Commerce-website/blob/66044b826dc0e542fbd055d9c5123b724fb3ed76/Addtocartpage1.jpg" alt="addtocart1"/>
      <img src="https://github.com/Chaithu122/E-Commerce-website/blob/38adc91cf4a994189f716f8195ded3f425d32cca/Addtocartpage2.jpg" alt="addtocart2"/>
      <img src="https://github.com/Chaithu122/E-Commerce-website/blob/d3d4e1163cab9045988b3b2b65b4554f24292956/Addtocartpage3.jpg" alt="addtocart3"/>
+     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/d3a9c321a776a1111b2be90b35c5e3c29e0c9cc2/Cartpage.jpg" alt="cart"/>
+
+     ## 🛠 Project Setup
+     Follow these steps to set up and run this project on your system 👇
+
+  1. **💾 Clone the repository:**  
+     ```bash
+     git clone https://github.com/your-username/your-repository-name.git 
+
+ 2. **📂 Navigate to the project folder:**
+      ```bash
+   
+     cd E-Commerce-website
+
+
+ 3. **💻 Install dependencies:**
+    ```bash
+    
+     Make sure Node.js and npm are installed.
+     Then run:
+
+     npm install
+
+    
+5. **🚀 Run the development server:**
+     ```bash
+
+    npm start
+
+7. **🌐 Open in browser:**
+    ```bash
+
+   Visit http://localhost:5173 to view the project.
+
+
+
+
+
+ 
+ 
+
+
 
 
 
