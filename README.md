@@ -37,7 +37,10 @@ The project aim is to **provide a seamless online shopping experience** where us
 <img src="https://github.com/Chaithu122/E-Commerce-website/blob/0021c23ecdd7807a6124f153330af5f76d16c96b/Watchespage.jpg" alt="watchespage"/>
 
  ### 🖼MensWearPage
- 
+ <img src="https://github.com/Chaithu122/E-Commerce-website/blob/cf0dc4cde43163dac6d023adf68dd1a64c4c5951/Menswearpage.jpg" alt="menswearpage"/>
+
+  ### 🖼WomensWearPage
+  
 
 
 
