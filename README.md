@@ -65,7 +65,8 @@ The project aim is to **provide a seamless online shopping experience** where us
    - Each item can be removed individually
 
    - The total amount updates automatically whenever products are added or removed
-     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/66044b826dc0e542fbd055d9c5123b724fb3ed76/Addtocartpage1.jpg" alt="addtocart"/>
+     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/66044b826dc0e542fbd055d9c5123b724fb3ed76/Addtocartpage1.jpg" alt="addtocart1"/>
+     <img src="https://github.com/Chaithu122/E-Commerce-website/blob/38adc91cf4a994189f716f8195ded3f425d32cca/Addtocartpage2.jpg" alt="addtocart2"/>
 
 
 
