@@ -23,6 +23,7 @@ The project aim is to **provide a seamless online shopping experience** where us
 - **IDE:** VS Code, Git
   ## 🖼 Screenshots
   ### 🖼HomePage
+  <img src="https://github.com/Chaithu122/E-Commerce-website/blob/ffc29798912f854bfff62c49f0e5c6caea405a8b/Homepage1.jpg" alt="homepage1"/>
   
   
 
