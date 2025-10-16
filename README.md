@@ -52,6 +52,22 @@ The project aim is to **provide a seamless online shopping experience** where us
    <img src="https://github.com/Chaithu122/E-Commerce-website/blob/ed5266e1c032c6ec03a874fd56d591c30348b6dd/Fridgepage.jpg" alt="fridgepage"/>
    
    ### 🖼ACPage
+   <img src="https://github.com/Chaithu122/E-Commerce-website/blob/5c37b50583e1d75ab7049e8c902167b66f71a8f9/ACpage.jpg" alt="ACPage"/>
+
+   ## 🛒 Add to Cart Feature
+   The **Add to Cart** feature allows users to select products they wish to purchase and view them in the cart section before checkout.
+    It provides an easy way to manage selected items and calculate total cost dynamically.
+   ## ✨ Key Highlights
+   - Users can add items from any product category (Mobiles, Laptops, Furniture, etc.)
+
+   - Items are displayed in a cart section with product image, name, and price
+
+   - Each item can be removed individually
+
+   - The total amount updates automatically whenever products are added or removed
+
+
+
 
      
   
