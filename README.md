@@ -22,6 +22,9 @@ The project aim is to **provide a seamless online shopping experience** where us
 - **Web Technologies:** HTML, CSS, JavaScript  
 - **IDE:** VS Code, Git
   ## 🖼 Screenshots
+  ### 🖼Home Page
+  
+
  
 
 
