@@ -23,55 +23,75 @@ The project aim is to **provide a seamless online shopping experience** where us
 - **IDE:** VS Code, Git
   ## 🖼 Screenshots
   ### 🖼HomePage
-  <img src="https://github.com/user-attachments/assets/050b8764-b343-4cd9-8aaf-41da3b50ac5a" alt="homepage1"/>
-<img src="https://github.com/user-attachments/assets/e73fc5a0-fec6-4cba-912d-0fe9f34a4d82" alt="homepage2"/>
-<img src="https://github.com/user-attachments/assets/c4b54903-157b-4011-90ec-ea44f60295c5" alt="homepage3"/>
-<img src="https://github.com/user-attachments/assets/da53a074-51ca-4b51-be82-46943cce3862" alt="homepage4" width=1000/>
+  <img src="https://github.com/user-attachments/assets/6fe58bf9-f767-4f71-836e-fa9cfd76ca51" alt="homepage1"  />
+  <img src="https://github.com/user-attachments/assets/bcf6bec4-328b-4a6d-bcc6-503572f87a97" alt="homepage2" />
+  <img src="https://github.com/user-attachments/assets/90eba9ae-86af-4cee-94cb-09662d7bea31" alt="homepage3" />
+  <img src="https://github.com/user-attachments/assets/461c5f94-3061-4289-941e-aaa32a956cd1" alt="homepage4"/>
 
 
 
  ### 🖼MobilesPage
- <img src="https://github.com/user-attachments/assets/cd03a81f-3dcc-4ebf-b3ee-a5309a53f9d9" alt="mobilespage"/>
+ <img src="https://github.com/user-attachments/assets/c7bc1b16-e103-4537-bd6d-e5e7b896cadd" alt="mobilespage"/>
+
+
 
 
  
  ### 🖼ComputersPage
- <img src="https://github.com/user-attachments/assets/57d6b952-8d0b-41ef-b086-a41996f1ade0" alt="computerspage"/>
+ <img src="https://github.com/user-attachments/assets/4b834088-c9e7-46a3-86d2-2cabbbdd8982" alt="computerspage"/>
+ 
+
 
 
 
  ### 🖼WatchesPage
-<img src="https://github.com/user-attachments/assets/002ec2b6-71e6-4f2b-8bf9-e49279617cb9" alt="watchespage"/>
+<img src="https://github.com/user-attachments/assets/ebca0bf1-4524-4357-98e7-b8e6b0e4b434" alt="watchespage"/>
+
+
+
+
 
 
 
  ### 🖼MensWearPage
- <img src="https://github.com/user-attachments/assets/a5693f0b-ac72-47b3-8848-1b2270561ce6" alt="menswearpage"/>
+ <img src="https://github.com/user-attachments/assets/2c193edd-38f9-45b5-a5ba-ccd84677dfa4" alt="menswearpage"/>
+
+
 
 
 
   ### 🖼WomensWearPage
-  <img src="https://github.com/user-attachments/assets/495a6b7c-aaeb-462f-aa4a-5c0b48baad4e" alt="womenswear"/>
+  <img src="https://github.com/user-attachments/assets/2fd9a17d-e385-43a8-8e77-ac9b3338466a" alt="womenswear"/>
+  
+
  
 
 
    ### 🖼FurniturePage
-   <img src="https://github.com/user-attachments/assets/66508aba-9cdd-4998-8c92-633b061deb03" alt="furniturepage"/>
+   <img src="https://github.com/user-attachments/assets/f26550e1-4551-4d49-a784-344e8a6ab388" alt="furniturepage"/>
+  
+
 
 
 
    ### 🖼KitchenPage
-   <img src="https://github.com/user-attachments/assets/10959a85-4478-4e19-ba39-c5b563a1bdff" alt="kitchenpage"/>
+   <img src="https://github.com/user-attachments/assets/24ba24ba-02bd-4b51-b762-b50531073a92" alt="kitchenpage"/>
+  
+
 
 
 
    ### 🖼FridgePage
-   <img src="https://github.com/user-attachments/assets/4ce27c2f-aceb-4d2e-bf96-f14b08a073e9" alt="fridgepage"/>
+   <img src="https://github.com/user-attachments/assets/ea95f7d2-1793-41cc-b74f-218f5bd2a9a6" alt="fridgepage"/>
+
+
  
 
    
    ### 🖼ACPage
-   <img src="https://github.com/user-attachments/assets/cdc69cae-052e-462b-b2fc-fce23845a442" alt="ACPage"/>
+   <img src="https://github.com/user-attachments/assets/9eb7eafb-3346-420e-b37a-67e6d216b9bf" alt="ACPage"/>
+  
+
    
 
 
@@ -86,10 +106,22 @@ The project aim is to **provide a seamless online shopping experience** where us
    - Each item can be removed individually
 
    - The total amount updates automatically whenever products are added or removed
-     <img src="https://github.com/user-attachments/assets/6152d86a-ce02-4c63-a390-e59ecec153d5" alt="addtocart1"/>
-     <img src="https://github.com/user-attachments/assets/62ed0510-d7c3-4366-8ec8-e3d970e92b11" alt="addtocart2"/>
-     <img src="https://github.com/user-attachments/assets/5e174a34-8fc5-4d16-a878-9a316a5b0cab" alt="addtocart3"/>
-     <img src="https://github.com/user-attachments/assets/bf17e608-3afb-47ae-816e-613f09a1aee7" alt="cart"/>
+     <img src="https://github.com/user-attachments/assets/1b12ebdf-a397-46ac-b86c-f907d186b814" alt="addtocart1"/>
+    
+
+     <img src="https://github.com/user-attachments/assets/7a3d2654-d512-47ac-b749-ac98b08c0a44" alt="addtocart2"/>
+   
+
+     <img src="https://github.com/user-attachments/assets/95ff6a00-95d1-4ddc-a9ca-d5d9a68f5dbc" alt="addtocart3"/>
+   
+
+     <img src="https://github.com/user-attachments/assets/3ae0c67e-a0eb-406f-8697-7f6a5d834bbb" alt="cart"/>
+     
+
+ 
+
+
+
 
 
 
